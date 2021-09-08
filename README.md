@@ -30,6 +30,13 @@ Introduction:
 |Type     |Double Spicy      |with ghee       |Large              |Large          |
 |Amout    |40-50             |40-30           |30-20              |20-10          |
 
+----
+# quotes section
+>A “It’s not enough to be **friendly**. You have to be a friend.” .
+>Author:*R.J. Palacio, Wonder* <br>
+>“‘You have been**my friend,’ replied Charlotte**. ‘That in itself is a tremendous thing.’” 
+>Author:*E.B. White, Charlotte’s Web*
+
 
 
 
