@@ -18,6 +18,20 @@
    * Camping
 **[LinktoAboutme.md](AboutMe.md)**
 
+# heading about creating a table food/drinks
+
+Introduction:
+
+|Mandatory|fav1              |fav2            |fav3               |fav4           |
+|:------: | :--------:       | :-------:      | :-------:         | :-------:     |
+|Food     |mutton tikka      |Idly            |Ice creame         |drinks         |
+|Location |hyderbad          |guntur          |vijaywada          |thumps         |
+|Type     |Double Spicy      |with ghee       |Large              |Large          |
+|Amout    |40-50             |40-30           |30-20              |20-10          |
+
+
+
+
 
 
 
